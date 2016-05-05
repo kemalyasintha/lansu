@@ -1,2 +1,2 @@
-# lansu
-bidding system
+# Lansu.lk
+Bidding system
